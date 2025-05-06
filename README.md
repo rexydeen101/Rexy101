@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>{{Your Name}} – GitHub Profile</title>
+  <title>{{Usman Shittu}} – GitHub Profile</title>
   <style>
     body { font-family: -apple-system, BlinkMacSystemFont, “Segoe UI”, Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; padding: 2rem; max-width: 800px; margin: auto; }
     header { text-align: center; margin-bottom: 2rem; }
@@ -19,7 +19,7 @@
 <body>
 
   <header>
-    <h1>{{Your Name}}</h1>
+    <h1>{{Usman Shittu}}</h1>
     <p class="lead">Aspiring Front-End Software Engineer | Driven by Knowledge &amp; Impact</p>
     <p>
       <span class="badge">💼 ALX Front-End FE</span>
@@ -31,7 +31,7 @@
   <section id="about">
     <h2>About Me</h2>
     <p>
-      Hello! I’m <strong>{{Your Name}}</strong>, a learner at ALX Front-End Software Engineering.  
+      Hello! I’m <strong>{{Usman Shittu}}</strong>, a learner at ALX Front-End Software Engineering.  
       I believe in the power of <em>knowledge</em> to transform ideas into real-world solutions and the pursuit of excellence to create value.  
       My mission is to <strong>acquire deep technical expertise</strong> and leverage it to make the technology world smarter, more efficient, and more inclusive.
     </p>
